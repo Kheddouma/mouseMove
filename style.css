@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+body {
+  background: #000000;
+}
+.contenue {
+  width: 500px;
+  height: 500px;
+  background-color: rgba(61, 213, 240, 0.1);
+}
